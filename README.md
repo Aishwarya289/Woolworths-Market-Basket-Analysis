@@ -35,8 +35,7 @@ The primary objective of this project is to:
 ## 📊 Dashboard
 
 > **Dashboard Preview**
-
-![Dashboard](dashboard.png)
+<img width="1127" height="682" alt="dashboard" src="https://github.com/user-attachments/assets/9e6af847-717a-4774-a523-a8aba80e31d3" />
 
 ---
 
