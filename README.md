@@ -1,7 +1,6 @@
 # 🛒 Woolworths Customer Purchase & Market Basket Analysis
 
 ## 📌 Project Overview
-
 This project analyzes Woolworths retail transaction data to identify customer purchasing behaviour, product performance, and cross-selling opportunities using **Microsoft Excel**.
 
 The analysis combines **Pivot Tables, Pivot Charts, Correlation Analysis, and Dashboard Visualization** to transform raw sales data into meaningful business insights and actionable recommendations.
