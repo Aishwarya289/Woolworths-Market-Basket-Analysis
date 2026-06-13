@@ -99,20 +99,6 @@ Correlation analysis identified several complementary purchasing patterns that c
 
 ---
 
-## 📁 Repository Contents
-
-```
-📦 Woolworths-Market-Basket-Analysis
-│
-├── README.md
-├── Woolworths_Market_Basket_Analysis.xlsx
-├── Woolworths_Market_Basket_Report.pdf
-├── dashboard.png
-└── images/
-```
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Data Cleaning
